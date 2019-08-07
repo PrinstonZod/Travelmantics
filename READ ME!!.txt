@@ -1,0 +1,20 @@
+This is a test application for a travel deals company. It is called Travelmantics.
+It was done in completion of the Andela Learning Community (ALC) 4.0, 5 day of Code Challenge 2.
+
+
+FUNCTIONALITY
+------------------
+
+CUSTOMER
+--------
+1) The app allows for automatic Gmail login and also for a Sign up process using any other email address for the user.
+2) The customer can view all the deals in a list format. When clicked, it opens up and gives more information about the deal.
+
+ADMIN
+------
+1) The admin is able to log in and view the already existing deals.
+2) The admin can edit, delete and create new deals that are saved into the database.
+
+ It has no specific permissions.
+
+ENJOY!!!! 

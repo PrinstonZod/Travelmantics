@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="deal_title_hint">Deal Title</string>
+    <string name="deal_description_hint">Deal description</string>
+    <string name="price_in_naira_hint">Price in Naira</string>
+    <string name="save_menu">SAVE</string>
+    <string name="new_travel_deal">New Travel Deal</string>
+    <string name="delete_deal">Delete Deal</string>
+    <string name="logout_text">Logout</string>
+    <string name="upload_image_text">UPLOAD IMAGE</string>
+    <string name="select_image">select image</string>
+</resources>
